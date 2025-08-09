@@ -1,0 +1,478 @@
+[
+    {
+        "label": 1,
+        "text": "the sun is shining brightly"
+    },
+    {
+        "label": 1,
+        "text": "i love spending time with my family"
+    },
+    {
+        "label": 1,
+        "text": "learning new things is exciting"
+    },
+    {
+        "label": 1,
+        "text": "helping others brings me joy"
+    },
+    {
+        "label": 1,
+        "text": "i am grateful for the opportunities i have"
+    },
+    {
+        "label": 1,
+        "text": "being kind to others is important"
+    },
+    {
+        "label": 1,
+        "text": "exercise is good for both body and mind"
+    },
+    {
+        "label": 1,
+        "text": "success comes to those who work hard"
+    },
+    {
+        "label": 1,
+        "text": "every day is a chance to learn and grow"
+    },
+    {
+        "label": 1,
+        "text": "laughter is the best medicine"
+    },
+    {
+        "label": 1,
+        "text": "i am surrounded by supportive friends"
+    },
+    {
+        "label": 1,
+        "text": "i am capable of achieving my goals"
+    },
+    {
+        "label": 1,
+        "text": "i enjoy trying new foods"
+    },
+    {
+        "label": 1,
+        "text": "kindness costs nothing"
+    },
+    {
+        "label": 1,
+        "text": "i am in control of my own happiness"
+    },
+    {
+        "label": 1,
+        "text": "positivity attracts positivity"
+    },
+    {
+        "label": 1,
+        "text": "my mistakes help me learn and improve"
+    },
+    {
+        "label": 1,
+        "text": "i am proud of who i am becoming"
+    },
+    {
+        "label": 1,
+        "text": "the world is full of possibilities"
+    },
+    {
+        "label": 1,
+        "text": "i am worthy of love and respect"
+    },
+    {
+        "label": 1,
+        "text": "i am making a positive difference"
+    },
+    {
+        "label": 1,
+        "text": "i have the power to create change"
+    },
+    {
+        "label": 1,
+        "text": "i am grateful for the beauty in life"
+    },
+    {
+        "label": 1,
+        "text": "each day is a fresh start"
+    },
+    {
+        "label": 1,
+        "text": "i am surrounded by abundance"
+    },
+    {
+        "label": 1,
+        "text": "i am grateful for my health"
+    },
+    {
+        "label": 1,
+        "text": "i believe in my abilities"
+    },
+    {
+        "label": 1,
+        "text": "i am worthy of success"
+    },
+    {
+        "label": 1,
+        "text": "today is going to be a great day"
+    },
+    {
+        "label": 1,
+        "text": "i am becoming the best version of myself"
+    },
+    {
+        "label": 1,
+        "text": "the weather is lovely today"
+    },
+    {
+        "label": 1,
+        "text": "i enjoy spending time with my family"
+    },
+    {
+        "label": 1,
+        "text": "learning new things is always exciting"
+    },
+    {
+        "label": 1,
+        "text": "helping others brings me joy"
+    },
+    {
+        "label": 1,
+        "text": "the flowers in the garden are beautiful"
+    },
+    {
+        "label": 1,
+        "text": "i love going for walks in the park"
+    },
+    {
+        "label": 1,
+        "text": "success feels great"
+    },
+    {
+        "label": 1,
+        "text": "laughter is good for the soul"
+    },
+    {
+        "label": 1,
+        "text": "kindness goes a long way"
+    },
+    {
+        "label": 1,
+        "text": "the sky is clear and blue"
+    },
+    {
+        "label": 1,
+        "text": "i'm grateful for the little things"
+    },
+    {
+        "label": 1,
+        "text": "music is uplifting"
+    },
+    {
+        "label": 1,
+        "text": "the beach is peaceful"
+    },
+    {
+        "label": 1,
+        "text": "i feel refreshed after a good night's sleep"
+    },
+    {
+        "label": 1,
+        "text": "positivity is contagious"
+    },
+    {
+        "label": 1,
+        "text": "every day is a new opportunity"
+    },
+    {
+        "label": 1,
+        "text": "happiness is a choice"
+    },
+    {
+        "label": 1,
+        "text": "love makes the world go round"
+    },
+    {
+        "label": 1,
+        "text": "i'm surrounded by supportive people"
+    },
+    {
+        "label": 1,
+        "text": "challenges help me grow"
+    },
+    {
+        "label": 1,
+        "text": "the future is full of possibilities"
+    },
+    {
+        "label": 1,
+        "text": "good things come to those who work hard"
+    },
+    {
+        "label": 1,
+        "text": "i believe in myself"
+    },
+    {
+        "label": 1,
+        "text": "i'm proud of my achievements"
+    },
+    {
+        "label": 1,
+        "text": "i control my own destiny"
+    },
+    {
+        "label": 1,
+        "text": "love conquers all"
+    },
+    {
+        "label": 1,
+        "text": "opportunities are everywhere"
+    },
+    {
+        "label": 1,
+        "text": "change brings growth"
+    },
+    {
+        "label": 1,
+        "text": "my potential is limitless"
+    },
+    {
+        "label": 1,
+        "text": "i'm blessed with abundance"
+    },
+    {
+        "label": 0,
+        "text": "i feel overwhelmed by my responsibilities"
+    },
+    {
+        "label": 0,
+        "text": "failure is inevitable"
+    },
+    {
+        "label": 0,
+        "text": "nothing ever goes my way"
+    },
+    {
+        "label": 0,
+        "text": "i am constantly stressed"
+    },
+    {
+        "label": 0,
+        "text": "i always seem to make mistakes"
+    },
+    {
+        "label": 0,
+        "text": "my life feels empty and meaningless"
+    },
+    {
+        "label": 0,
+        "text": "i never seem to have enough time"
+    },
+    {
+        "label": 0,
+        "text": "i am always tired"
+    },
+    {
+        "label": 0,
+        "text": "i am not good enough"
+    },
+    {
+        "label": 0,
+        "text": "life is unfair"
+    },
+    {
+        "label": 0,
+        "text": "i am always worried about the future"
+    },
+    {
+        "label": 0,
+        "text": "i feel trapped in my circumstances"
+    },
+    {
+        "label": 0,
+        "text": "i am always comparing myself to others"
+    },
+    {
+        "label": 0,
+        "text": "i never catch a break"
+    },
+    {
+        "label": 0,
+        "text": "i am always disappointed"
+    },
+    {
+        "label": 0,
+        "text": "i can't seem to do anything right"
+    },
+    {
+        "label": 0,
+        "text": "i feel like giving up"
+    },
+    {
+        "label": 0,
+        "text": "i am stuck in a rut"
+    },
+    {
+        "label": 0,
+        "text": "nothing ever changes"
+    },
+    {
+        "label": 0,
+        "text": "i am not worthy of happiness"
+    },
+    {
+        "label": 0,
+        "text": "i am alone in this world"
+    },
+    {
+        "label": 0,
+        "text": "i am constantly judged by others"
+    },
+    {
+        "label": 0,
+        "text": "i will never succeed"
+    },
+    {
+        "label": 0,
+        "text": "i am always overlooked"
+    },
+    {
+        "label": 0,
+        "text": "i am always behind schedule"
+    },
+    {
+        "label": 0,
+        "text": "i am a failure"
+    },
+    {
+        "label": 0,
+        "text": "i am not deserving of love"
+    },
+    {
+        "label": 0,
+        "text": "i am my own worst enemy"
+    },
+    {
+        "label": 0,
+        "text": "nothing brings me joy"
+    },
+    {
+        "label": 0,
+        "text": "i am never satisfied with myself"
+    },
+    {
+        "label": 0,
+        "text": "the weather is awful today"
+    },
+    {
+        "label": 0,
+        "text": "i'm feeling lonely"
+    },
+    {
+        "label": 0,
+        "text": "nothing seems to be going right"
+    },
+    {
+        "label": 0,
+        "text": "i'm overwhelmed by stress"
+    },
+    {
+        "label": 0,
+        "text": "disappointment is all i feel"
+    },
+    {
+        "label": 0,
+        "text": "the world seems bleak"
+    },
+    {
+        "label": 0,
+        "text": "i'm surrounded by negativity"
+    },
+    {
+        "label": 0,
+        "text": "failure is discouraging"
+    },
+    {
+        "label": 0,
+        "text": "loneliness is suffocating"
+    },
+    {
+        "label": 0,
+        "text": "life feels meaningless"
+    },
+    {
+        "label": 0,
+        "text": "the rain ruins everything"
+    },
+    {
+        "label": 0,
+        "text": "i can't seem to catch a break"
+    },
+    {
+        "label": 0,
+        "text": "everything is falling apart"
+    },
+    {
+        "label": 0,
+        "text": "i feel drained of energy"
+    },
+    {
+        "label": 0,
+        "text": "negativity is toxic"
+    },
+    {
+        "label": 0,
+        "text": "i'm stuck in a rut"
+    },
+    {
+        "label": 0,
+        "text": "happiness seems out of reach"
+    },
+    {
+        "label": 0,
+        "text": "i'm constantly battling my demons"
+    },
+    {
+        "label": 0,
+        "text": "i feel like a failure"
+    },
+    {
+        "label": 0,
+        "text": "the future seems bleak"
+    },
+    {
+        "label": 0,
+        "text": "hard work never pays off"
+    },
+    {
+        "label": 0,
+        "text": "i doubt myself constantly"
+    },
+    {
+        "label": 0,
+        "text": "i'm ashamed of my failures"
+    },
+    {
+        "label": 0,
+        "text": "i'm trapped in a cycle of negativity"
+    },
+    {
+        "label": 0,
+        "text": "i feel lost and alone"
+    },
+    {
+        "label": 0,
+        "text": "opportunities seem scarce"
+    },
+    {
+        "label": 0,
+        "text": "change is terrifying"
+    },
+    {
+        "label": 0,
+        "text": "i don't see a way out"
+    },
+    {
+        "label": 0,
+        "text": "i'm plagued by doubt"
+    }
+]

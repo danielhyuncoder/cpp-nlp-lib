@@ -1,0 +1,1152 @@
+[
+    {
+        "label": 0,
+        "weight": 0.001307696670329074,
+        "word": "the"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "sun"
+    },
+    {
+        "label": 0,
+        "weight": 0.0005033578728898867,
+        "word": "is"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "shining"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "brightly"
+    },
+    {
+        "label": 0,
+        "weight": 0.0004275642444958212,
+        "word": "i"
+    },
+    {
+        "label": 0,
+        "weight": 0.0027250004566651952,
+        "word": "love"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "spending"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "time"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "with"
+    },
+    {
+        "label": 0,
+        "weight": 0.0004116577021849801,
+        "word": "my"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "family"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "learning"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "new"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "things"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "exciting"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "helping"
+    },
+    {
+        "label": 0,
+        "weight": 0.000249356634766209,
+        "word": "others"
+    },
+    {
+        "label": 0,
+        "weight": 0.0006483206743313278,
+        "word": "brings"
+    },
+    {
+        "label": 0,
+        "weight": 0.0006888483228977414,
+        "word": "me"
+    },
+    {
+        "label": 0,
+        "weight": 0.00038453672278961515,
+        "word": "joy"
+    },
+    {
+        "label": 0,
+        "weight": 0.000512312226850649,
+        "word": "am"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "grateful"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "for"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "opportunities"
+    },
+    {
+        "label": 0,
+        "weight": 0.002779709426555997,
+        "word": "have"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "being"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "kind"
+    },
+    {
+        "label": 0,
+        "weight": 0.00041380085823811136,
+        "word": "to"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "important"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "exercise"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "good"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "both"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "body"
+    },
+    {
+        "label": 0,
+        "weight": 0.0026674914294707182,
+        "word": "and"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "mind"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "success"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "comes"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "those"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "who"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "work"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "hard"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "every"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "day"
+    },
+    {
+        "label": 0,
+        "weight": 0.0005762367932503655,
+        "word": "a"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "chance"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "learn"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "grow"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "laughter"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "best"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "medicine"
+    },
+    {
+        "label": 0,
+        "weight": 0.000694813631760554,
+        "word": "surrounded"
+    },
+    {
+        "label": 0,
+        "weight": 0.0003754421834993425,
+        "word": "by"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "supportive"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "friends"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "capable"
+    },
+    {
+        "label": 0,
+        "weight": 0.00038201577194655505,
+        "word": "of"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "achieving"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "goals"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "enjoy"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "trying"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "foods"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "kindness"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "costs"
+    },
+    {
+        "label": 0,
+        "weight": 0.0013244095912585108,
+        "word": "nothing"
+    },
+    {
+        "label": 0,
+        "weight": 0.0027361264262788327,
+        "word": "in"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "control"
+    },
+    {
+        "label": 0,
+        "weight": 0.0015014669846293847,
+        "word": "own"
+    },
+    {
+        "label": 0,
+        "weight": 0.00041526074169870525,
+        "word": "happiness"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "positivity"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "attracts"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "mistakes"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "help"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "improve"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "proud"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "becoming"
+    },
+    {
+        "label": 0,
+        "weight": 0.0026877458297631953,
+        "word": "world"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "full"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "possibilities"
+    },
+    {
+        "label": 0,
+        "weight": 0.0013031812345719997,
+        "word": "worthy"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "respect"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "making"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "positive"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "difference"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "power"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "create"
+    },
+    {
+        "label": 0,
+        "weight": 0.002602588402975302,
+        "word": "change"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "beauty"
+    },
+    {
+        "label": 0,
+        "weight": 0.0014291893083816164,
+        "word": "life"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "each"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "fresh"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "start"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "abundance"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "health"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "believe"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "abilities"
+    },
+    {
+        "label": 0,
+        "weight": 0.0012812586190572173,
+        "word": "today"
+    },
+    {
+        "label": 0,
+        "weight": 0.0007619946412734125,
+        "word": "going"
+    },
+    {
+        "label": 0,
+        "weight": 0.0013673099106521174,
+        "word": "be"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "great"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "version"
+    },
+    {
+        "label": 0,
+        "weight": 0.0014038936132359638,
+        "word": "myself"
+    },
+    {
+        "label": 0,
+        "weight": 0.0003965213148097875,
+        "word": "weather"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "lovely"
+    },
+    {
+        "label": 0,
+        "weight": 0.00037146098751838726,
+        "word": "always"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "flowers"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "garden"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "are"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "beautiful"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "walks"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "park"
+    },
+    {
+        "label": 0,
+        "weight": 0.0009086592858692777,
+        "word": "feels"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "soul"
+    },
+    {
+        "label": 0,
+        "weight": 0.0012959804970178765,
+        "word": "goes"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "long"
+    },
+    {
+        "label": 0,
+        "weight": 0.0004248035741794976,
+        "word": "way"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "sky"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "clear"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "blue"
+    },
+    {
+        "label": 0,
+        "weight": 0.0013760304464464827,
+        "word": "i'm"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "little"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "music"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "uplifting"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "beach"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "peaceful"
+    },
+    {
+        "label": 0,
+        "weight": 0.00027238484804930014,
+        "word": "feel"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "refreshed"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "after"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "night's"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "sleep"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "contagious"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "opportunity"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "choice"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "makes"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "go"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "round"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "people"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "challenges"
+    },
+    {
+        "label": 0,
+        "weight": 0.0015368061442210094,
+        "word": "future"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "come"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "achievements"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "destiny"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "conquers"
+    },
+    {
+        "label": 0,
+        "weight": 0.0007289812580356972,
+        "word": "all"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "everywhere"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "growth"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "potential"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "limitless"
+    },
+    {
+        "label": 0,
+        "weight": 0.00498690990053943,
+        "word": "blessed"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "overwhelmed"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "responsibilities"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "failure"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "inevitable"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "ever"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "constantly"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "stressed"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "seem"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "make"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "empty"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "meaningless"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "never"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "enough"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "tired"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "not"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "unfair"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "worried"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "about"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "trapped"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "circumstances"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "comparing"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "catch"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "break"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "disappointed"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "can't"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "do"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "anything"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "right"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "like"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "giving"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "up"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "stuck"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "rut"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "changes"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "alone"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "this"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "judged"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "will"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "succeed"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "overlooked"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "behind"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "schedule"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "deserving"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "worst"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "enemy"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "satisfied"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "awful"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "feeling"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "lonely"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "seems"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "stress"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "disappointment"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "bleak"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "negativity"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "discouraging"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "loneliness"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "suffocating"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "rain"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "ruins"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "everything"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "falling"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "apart"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "drained"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "energy"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "toxic"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "out"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "reach"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "battling"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "demons"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "pays"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "off"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "doubt"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "ashamed"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "failures"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "cycle"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "lost"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "scarce"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "terrifying"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "don't"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "see"
+    },
+    {
+        "label": 1,
+        "weight": 0.00498690990053943,
+        "word": "plagued"
+    }
+]
